@@ -1,0 +1,22 @@
+[
+  {
+    "id": 0,
+    "name": "Red Cross",
+    "picture": "images/rc.jpg"
+  },
+  {
+    "id": 1,
+    "name": "WWF",
+    "picture": "images/wwf.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Save the Children",
+    "picture": "images/sc.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Doctors without Borders",
+    "picture": "images/msf2.jpg"
+  }
+]
